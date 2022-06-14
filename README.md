@@ -1,19 +1,23 @@
 # Bom vindo(a) ao meu perfil
 
-Olá, eu sou o Alex Moura
+![Programer](https://user-images.githubusercontent.com/6544616/173581178-890dba97-d500-47df-9256-04fc4c130cc4.jpg)
 
-##Meus Hobies
 
--Ver filmes
--Ver Animes
+Olá, eu sou o Alex Moura, desenvolvedor em constante processo de atualização.
 
-##Atualmente Estudando
+## Meus Hobies
 
--Git e GitHub
--.Net
--Angular
+- Ver filmes
+- Ver Animes
 
-##Meus Contatos
+## Atualmente Estudando
 
--E-mail: alekissi@gmail.com
--LinkedIn: https://www.linkedin.com/in/alex-pereira-de-moura-02372913b
+- Git e GitHub
+- .Net
+- Angular
+
+## Meus Contatos
+
+- E-mail: alekissi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alex-pereira-de-moura-02372913b
+- Instagem: @AlexMoura_Tech
