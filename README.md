@@ -21,6 +21,7 @@ OlÃ¡, eu sou o Alex Moura, desenvolvedor em constante processo de atualizaÃ§
 - Instagem: @AlexMoura_Tech
 
 ## Comandos Básicos GIT
+[Comandos GIT](ComandosGIT.md)
 
 ![Comandos](../main/img/Comandos_git.png)
 
