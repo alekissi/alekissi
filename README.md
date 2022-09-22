@@ -22,7 +22,7 @@ OlÃ¡, eu sou o Alex Moura, desenvolvedor em constante processo de atualizaÃ§
 
 ## Comandos Básicos GIT
 
-![Comandos Básicos](alekissi/img/electrocat.png)
+![Comandos Básicos](/../main/assets/img/electrocat.png)
 
 
 
