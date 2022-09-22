@@ -1,7 +1,7 @@
 # Bom vindo(a) ao meu perfil
 
 
-Olá, eu sou o Alex Moura, desenvolvedor em constante processo de atualização.
+OlÃ¡, eu sou o Alex Moura, desenvolvedor em constante processo de atualizaÃ§Ã£o.
 
 ## Meus Hobies
 
@@ -20,9 +20,9 @@ Olá, eu sou o Alex Moura, desenvolvedor em constante processo de atualização.
 - LinkedIn: https://www.linkedin.com/in/alex-pereira-de-moura-02372913b
 - Instagem: @AlexMoura_Tech
 
-## Comandos B�sicos GIT
+## Comandos Básicos GIT
 
-![Comandos B�sicos](img/electrocat.png)
+![Comandos Básicos](alekissi/img/electrocat.png)
 
 
 
